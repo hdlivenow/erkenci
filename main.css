@@ -1,0 +1,166 @@
+.offer_help_text {
+    display: none;
+  }
+  
+  .dl_button {
+    background: #00B4FF;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 10px;
+    width: 100%;
+    max-width: 600px;
+    border: 5px solid white;
+    box-shadow: 0px 3px 5px #ddd;
+    border-radius: 5px;
+    margin-top: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .dl_button:hover {
+    background: #00A3CC;
+    border: 5px solid white;
+  }
+  
+  .link_a:link {
+    background: #00B4FF;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 10px;
+    width: 100%;
+    max-width: 600px;
+    border: 5px solid white;
+    box-shadow: 0px 3px 5px #ddd;
+    border-radius: 5px;
+    margin-top: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .link_a:link:hover {
+    background: #FFC56A;
+    color: #424546;
+  }
+  
+  #rock {
+    background: white;
+    border: 1px solid #eee;
+    padding: 10px;
+  }
+  
+  #comment {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px auto;
+  }
+  
+  #comment:focus {
+    outline: none;
+  }
+  
+  #post {
+    background: #3F5B9A;
+    color: #fff;
+    border: 1px solid #2E4B89;
+    border-radius: 3px;
+    padding: 3px;
+    font-size: 12px;
+    width: 50px;
+    font-weight: bold;
+    float: right;
+  }
+  
+  #post:focus {
+    outline: none;
+  }
+  
+  #check {
+    margin: 5px;
+    color: #ccc;
+  }
+  
+  p {
+    margin: 1px;
+  }
+  
+  #name {
+    color: #3B5998;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  #message {
+    color: #000;
+  }
+  
+  #soci {
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  #link-a {
+    cursor: pointer;
+    color: #3B5998;
+  }
+  
+  #link-a:hover {
+    text-decoration: underline;
+  }
+  
+  #load-more {
+    Background: #5890FF;
+    color: white;
+    border: 0px;
+    width: 100%;
+    padding: 15px;
+    border-radius: 2px;
+    max-width: 700px;
+  }
+  
+  #load-more:focus {
+    outline: none;
+  }
+  
+  .dl_button {
+    display: none;
+  }
+  
+  #hidden {
+    display: none;
+  }
+  
+  #profile {
+    width: 50px;
+    height: 50px;
+  }
+  
+  #title {
+    color: #fff;
+  }
+  
+  body {
+    margin: 10px;
+    background: #eee url(https://imgur.com/iEHLOTA.jpg);
+    background-position: 50% 50%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 10px;
+  }
+  
+  #container {
+    background: #fff;
+    max-width: 900px;
+    min-height: 300px;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    display: none;
+  }
+  %offers_autoshow%
